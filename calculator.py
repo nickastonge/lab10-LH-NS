@@ -1,4 +1,6 @@
 # https://github.com/nickastonge/lab10-LH-NS.git
+# Nicholas St.Onge
+# Lauren Hill
 """
 calculator.py
 - Defines functions used to create a simple calculator

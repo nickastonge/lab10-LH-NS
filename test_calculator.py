@@ -1,4 +1,6 @@
 # https://github.com/nickastonge/lab10-LH-NS.git
+# Nicholas St.Onge
+# Lauren Hill
 import unittest, calculator
 
 class TestCalculator(unittest.TestCase):
